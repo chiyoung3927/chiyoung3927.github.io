@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "CHIYOUNG SONG"
 title_separator          : "-"
-subtitle                 : "Introduce research, projects, and publications of CYSong"
+subtitle                 : "Personal Homepage"
 name                     : &name "Chiyoung Song" # &name is a YAML anchor which can be *referenced later
 description              : &description "This is a personal Homepage where CYSONG introduce his research and projects."
 url                      : "https://chiyoung3927.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -100,7 +100,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
 #  avatar           : "/assets/images/michael-rose.jpg" # (프로필 사진 경로, 없다면 생략)
-  bio              : "wandering researcher"
+  bio              : "A wandering researcher"
   location         : "Seoul, Korea"
   links:
     - label: "GitHub"
