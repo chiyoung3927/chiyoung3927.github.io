@@ -14,7 +14,7 @@ locale                   : "ko-KR"
 title                    : "CHIYOUNG SONG's personal Homepage"
 title_separator          : "-"
 subtitle                 : "Introduce research, projects, and publications of CYSong"
-name                     : &name "Chiyoung Song" # &name is a YAML anchor which can be *referenced later
+name                     : &name "Chiyoung Song(송치영)" # &name is a YAML anchor which can be *referenced later
 description              : &description "This is a personal Homepage where CYSONG introduce his research and projects."
 url                      : "https://chiyoung3927.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
